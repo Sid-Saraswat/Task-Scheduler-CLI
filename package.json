@@ -1,0 +1,11 @@
+{
+  "name": "task-scheduler-cli",
+  "version": "1.0.0",
+  "description": "It is a CLI program which can be used to schedule tasks on their prority basis",
+  "main": "task.js",
+  "scripts": {
+    "task": "node task.js"
+  },
+  "author": "Siddharth Saraswat",
+  "license": "ISC"
+}
